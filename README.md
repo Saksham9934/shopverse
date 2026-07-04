@@ -262,8 +262,8 @@ http://localhost:5173
 
 | Role | Email | Password |
 |------|-------|----------|
-| 👨‍💼 Admin | admin@shopverse.com | admin123 |
-| 👤 User | jane@example.com | jane123 |
+| 👨‍💼 Admin | admin@shopverse.com | ****** |
+| 👤 Saksham | Sakshamjha3027@gmai.com | ***** |
 
 ---
 
