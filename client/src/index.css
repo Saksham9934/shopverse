@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply text-gray-800 transition-colors duration-200 bg-gray-50 dark:bg-gray-950 dark:text-gray-100;
+}
+
+.dark .bg-white {
+  @apply text-gray-100 bg-gray-800;
+}
+
+.dark .bg-gray-50 {
+  @apply text-gray-100 bg-gray-700;
+}
+
+.dark .border-t,
+.dark .border-b,
+.dark .border {
+  @apply border-gray-700;
+}
+
+.dark .hover\:bg-gray-100:hover {
+  @apply bg-gray-700;
+}
